@@ -93,18 +93,6 @@ python main.py
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 **Learning Approach**
 
 This project implements a simple learning agent:
@@ -121,27 +109,6 @@ This mimics basic principles of reinforcement learning.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Future Enhancements**
 
 •	Integration with real-time traffic data (IoT sensors/APIs)
@@ -154,26 +121,6 @@ This mimics basic principles of reinforcement learning.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Learning Outcomes**
 
 •	Understanding of intelligent agent systems
@@ -183,13 +130,6 @@ This mimics basic principles of reinforcement learning.
 •	Data analysis and visualization
 
 •	Real-world problem-solving using Python
-
-
-
-
-
-
-
 
 
 BY
