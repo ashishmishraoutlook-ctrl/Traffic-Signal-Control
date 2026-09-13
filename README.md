@@ -12,6 +12,12 @@ This project simulates an intelligent traffic signal control system that dynamic
 
 
 
+
+
+
+
+
+
 Problem Statement
 
 Traffic congestion is a common issue in urban areas. Conventional traffic signals operate on fixed timings, which often leads to inefficient traffic flow. There is a need for a system that can respond dynamically to real-time traffic conditions and optimize signal timing.
