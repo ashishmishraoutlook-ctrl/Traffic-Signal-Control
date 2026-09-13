@@ -1,6 +1,8 @@
 **Adaptive Traffic Signal Control System using Learning Agent**
 
 
+
+
 Overview
 
 
@@ -9,9 +11,11 @@ This project simulates an intelligent traffic signal control system that dynamic
 
 
 
+
 Problem Statement
 
 Traffic congestion is a common issue in urban areas. Conventional traffic signals operate on fixed timings, which often leads to inefficient traffic flow. There is a need for a system that can respond dynamically to real-time traffic conditions and optimize signal timing.
+
 
 
 
@@ -25,10 +29,13 @@ The system monitors the number of vehicles at a given time and classifies traffi
 •	Low Traffic
 
 
+
 Based on this classification:
 
 •	Signal time increases during high traffic
+
 •	Signal time decreases during low traffic
+
 Additionally, a reward-based mechanism evaluates whether the adjustment was effective, allowing the system to behave like a learning agent.
 
 
@@ -39,14 +46,13 @@ Additionally, a reward-based mechanism evaluates whether the adjustment was effe
 
 
 
+
+
 Technologies Used
 
 •	Python – Core programming language
-
 •	Pandas – Data handling and simulation
-
 •	Matplotlib – Visualization of traffic patterns
-
 
 
 How to Run the Project
@@ -59,7 +65,11 @@ python main.py
 
 
 
+
+
 Output
+
+
 •	Console-based simulation of traffic signals
 
 •	Dynamic adjustment of signal timing
@@ -70,7 +80,12 @@ Output
 
 
 
+
 <img width="427" height="233" alt="image" src="https://github.com/user-attachments/assets/33bf1d8f-aa92-4363-9ab9-b490401e9f70" />
+
+
+
+
 
 
 
@@ -91,6 +106,8 @@ This mimics basic principles of reinforcement learning.
 
 
 
+
+
 Future Enhancements
 
 •	Integration with real-time traffic data (IoT sensors/APIs)
@@ -100,6 +117,9 @@ Future Enhancements
 •	Development of a graphical user interface (GUI)
 
 •	Multi-intersection traffic management system
+
+
+
 
 
 
