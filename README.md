@@ -89,13 +89,6 @@ python main.py
 
 <img width="427" height="233" alt="image" src="https://github.com/user-attachments/assets/33bf1d8f-aa92-4363-9ab9-b490401e9f70" />
 
-
-
-
-
-
-
-
 **Learning Approach**
 
 This project implements a simple learning agent:
